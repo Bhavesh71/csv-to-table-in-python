@@ -2,6 +2,11 @@
 - a simple python program to convert comma-seperated-values(csv) file to tabular form 
 - using prettytable module 
 - link to prettytable documentation <a href="https://pypi.org/project/prettytable/"> click here</a>
+# Before using 
+- install prettytable module
+```
+pip install prettytable
+```
 
 # Usage 
 - very simple to use 
